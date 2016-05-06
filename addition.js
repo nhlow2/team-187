@@ -1,6 +1,5 @@
-functio addition(a, b){
-    var resukt = a + b;
+function addition(a, b){
+    var result = a + b;
     console.log(result);
-    
     
 }
